@@ -1,0 +1,110 @@
+.blog-template {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  height: 130vh;
+}
+
+.aside-blog {
+  /*background-color: red;*/
+  height: 100vh;
+  width: 30%;
+  padding-top: 5%;
+}
+
+.aside-blog h1 {
+  padding-left: 5%;
+  padding-top: 2.5%;
+}
+
+.aside-blog ul li {
+  display: inline;
+  list-style-type: none;
+  padding: 0 5px;
+}
+
+.aside-blog p {
+  clear: both;
+  padding: 15px 5% 0 10%;
+}
+
+.blog-content {
+  /*background-color: green;*/
+  height: 100vh;
+  width: 70%;
+}
+
+.photo {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  margin-left: 10%;
+  margin-right: 5%;
+  float: left;
+  border-radius: 50px;
+}
+
+.filter-list {
+  margin-left: -10px;
+}
+
+.filter-list a {
+  color: #ccc;
+}
+
+.button-list {
+  margin-left: -5px;
+}
+
+.button-list a {
+  display: inline;
+  background-color: #ccc;
+  padding: 10px 10px;
+  width: 100px;
+  height: 75px;
+  text-align: center;
+  margin: 5px 0;
+  padding-top: 22px;
+}
+
+.button-list a li i {
+  color: black;
+  width: 25px;
+}
+
+.blog-heading {
+  padding-top: 8%;
+  border-bottom: 2px solid #ccc;
+  width: 95%;
+  margin: 0 auto;
+}
+
+.blog-paragraphs {
+  padding-top: 2%;
+  width: 95%;
+  margin: 0 auto;
+}
+
+.blog-image1 {
+  background-color: red;
+  width: 95%;
+  margin: 25px auto 0 auto;
+  height: 400px;
+}
+
+.tweet-box {
+  margin-top: -27%;
+  margin-left: 30%;
+  width: 70%;
+  color: white;
+  line-height: 1.5;
+  font-family: 'Arial', sans-serif;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.underline a {
+  color: white;
+}

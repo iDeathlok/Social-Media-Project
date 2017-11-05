@@ -237,6 +237,23 @@ footer {
   color: white;
 }
 
+.tweet-box {
+  margin-top: -27%;
+  margin-left: 30%;
+  width: 70%;
+  color: white;
+  line-height: 1.5;
+  font-family: 'Arial', sans-serif;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.underline a {
+  color: white;
+}
+
 /* all styles below are for about page */
 
 .about-section-container {
